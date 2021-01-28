@@ -1,31 +1,32 @@
-// STARTING POINT
+// PONTO DE PARTIDA 
 const list = document.querySelector('.list');
 
-// 1: Store the first child of the `ul` in the variable `firstItem`
+// 1:Armazene o primeiro filho do `ul` na variável` firstItem` 
+
 const firstItem;
 firstItem.style.backgroundColor = '#04c5e6';
 
-// 2: Using traversal, store the second list item in a variable named `nextItem`
+// 2: Usando a travessia, armazene o segundo item da lista em uma variável chamada `nextItem` 
 
 nextItem.style.backgroundColor = '#b7c7d0';
 
-// 3: Store the last child of the `ul` in a variable named `lastItem`
+// 3: Armazene o último filho do `ul` em uma variável chamada` lastItem` 
 
 lastItem.style.backgroundColor = '#57d6ab';
 
-// 4: Using traversal, store the second-to-last list item in a variable named `prevItem`
+// 4:Usando travessia, armazene o penúltimo item da lista em uma variável chamada `prevItem` 
 
 prevItem.style.backgroundColor = '#f36f49';
 
-// 5: Store the nested div in a variable named `banner`
+// 5: Armazene o div aninhado em uma variável chamada `banner` 
 
 banner.className = 'banner';
 
-// 6: Using traversal, store the wrapper div in a variable named `wrapper`
+// 6: Usando travessia, armazene o div wrapper em uma variável chamada `wrapper`
 
 wrapper.style.backgroundColor = '#fcfcfc';
 
-// 7: Using traversal, store the body in a variable named `body`
+// 7: Usando travessia, armazene o corpo em uma variável chamada `corpo` 
 
 body.style.backgroundColor = '#f8fdf3';
 
